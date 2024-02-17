@@ -1,0 +1,17 @@
+---
+title: "morepractice"
+output: html_document
+date: "2023-09-01"
+---
+
+```{r}
+
+
+#  MORE PRACTICE
+5^3
+
+library(tidyverse)
+head(diamonds)
+
+
+```
