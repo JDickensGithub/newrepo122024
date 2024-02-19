@@ -1,0 +1,17 @@
+---
+title: "Untitled"
+author: "J Dickens"
+date: "2024-02-19"
+output: html_document
+---
+
+```{r}
+
+# RmarkdownPush2
+
+library(tidyverse)
+head(mpg)
+summary(mpg$displ)
+
+
+```
