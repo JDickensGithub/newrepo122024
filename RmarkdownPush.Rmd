@@ -1,0 +1,14 @@
+---
+title: "RmarkdownPush"
+author: "J Dickens"
+date: "2024-02-19"
+output: html_document
+---
+
+```{r}
+# This is an R Markdown Push Example
+library(tidyverse)
+head(diamonds)
+summary(diamonds$price)
+
+```
