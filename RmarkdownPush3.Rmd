@@ -1,0 +1,16 @@
+---
+title: "RmarkdownPush3"
+author: "J Dickens"
+date: "2024-02-20"
+output: html_document
+---
+
+```{r}
+
+# RmarkdownPush3
+library(tidyverse)
+head(diamonds)
+head(mpg)
+
+
+```
