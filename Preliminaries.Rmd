@@ -9,10 +9,10 @@ date: "2023-09-01"
 
 
 # R Preiminaries
-
+# James Dickens
 # 1 Raise 12 to the second power
 12^3
-12**2
+12**3
 # 2 Find the square root of 169.
 169^.5
 169**.5
